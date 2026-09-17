@@ -1,0 +1,5 @@
+*.class
+receipt_*.txt
+.DS_Store
+.idea/
+.vscode/
